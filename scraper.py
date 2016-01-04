@@ -13,7 +13,7 @@ import datetime
 
 
 class Datastore:
-    postgres = "dbname=photobucket user=postgres password=horny1"
+    postgres = "dbname=photobucket user=postgres password=xyz"
 
     def __init__(self):
         self.conn = None
